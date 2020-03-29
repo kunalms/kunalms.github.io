@@ -98,8 +98,6 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Mine **Developer Portfolio**  [akkefa.com](http://akkefa.com)
-
 ## Copyright and license
 
-Code and documentation copyright 2018 [akkefa Labs](https://www.akkefa.com/). Code released under the [MIT License](https://github.com/akkefa/developer-portfolio/blob/master/LICENSE).
+Code and documentation copyright 2018 [Kunal Sharma](https://kunalms.github.io/). Code released under the [MIT License](https://github.com/akkefa/developer-portfolio/blob/master/LICENSE).
