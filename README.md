@@ -6,7 +6,7 @@
 Complete Resume based portfolio for developers.
 Developers don't talk much. Their code does all the talking.
 
-<p><a href="https://github.com/akkefa/developer-portfolio/archive/master.zip">Download</a></p>
+<p><a href="https://github.com/kunalms/kunalms.github.io/archive/master.zip">Download</a></p>
 
 ![Design Blocks](https://raw.githubusercontent.com/akkefa/developer-portfolio/master/developer-portfolio.png)
 
