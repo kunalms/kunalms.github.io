@@ -8,7 +8,7 @@ Developers don't talk much. Their code does all the talking.
 
 <p><a href="https://github.com/kunalms/kunalms.github.io/archive/master.zip">Download</a></p>
 
-![Design Blocks](https://raw.githubusercontent.com/akkefa/developer-portfolio/master/developer-portfolio.png)
+![Design Blocks](https://github.com/kunalms/kunalms.github.io/raw/master/images/app-screenshot.png)
 
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
