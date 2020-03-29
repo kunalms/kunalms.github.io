@@ -722,6 +722,18 @@ Contact section start here
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
 
+    .waveTop {
+        background-size: 50% 60px !important;
+    }
+
+    .waveMiddle {
+        background-size: 50% 80px !important;
+    }
+
+    .waveBottom {
+        background-size: 50% 60px !important;
+    }
+
     .header .social {
         margin: 0 auto;
         text-align: center;
