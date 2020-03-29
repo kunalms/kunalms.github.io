@@ -124,6 +124,7 @@ a.btn:hover {
     position: relative;
     padding-top: 15px;
     padding-bottom: 120px;
+    z-index: 10;
 }
 
 .header .social {
@@ -740,7 +741,7 @@ Contact section start here
     }
 
     .waveWrapper {
-        height: 233px !important;
+        height: 335px !important;
     }
 
     .header .actions {
@@ -1125,7 +1126,7 @@ Contact section start here
     }
 }
 .waveWrapper {
-    z-index: 0;
+    z-index: 1;
     overflow: hidden;
     position: absolute;
     left: 0;
