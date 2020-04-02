@@ -1016,7 +1016,7 @@ span.wave-hand {
     100% { transform: rotate(  0.0deg) }
 }
 
-li.inline-bullet {
+li.inline-bullet:not(:last-child) {
     float: left;
     margin-right: 30px;
 }
