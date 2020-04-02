@@ -457,7 +457,7 @@ a.btn:hover {
 }
 
 .chart-easy-pie {
-    positon: relative;
+    position: relative;
 }
 
 .chart {
@@ -722,6 +722,10 @@ Contact section start here
 
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
+
+    .intro .section {
+        border-radius: 0 0 16px 16px;
+    }
 
     .waveTop {
         background-size: 50% 60px !important;
@@ -1112,4 +1116,8 @@ li.inline-bullet:not(:last-child) {
 }
 .project:hover .project-thumb {
     opacity: .5;
+}
+
+.section {
+    border-radius: 16px;
 }
