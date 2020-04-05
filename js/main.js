@@ -46,7 +46,7 @@ $(document).ready(function () {
             if (bottom_of_window > bottom_of_object) {
 
                 $('.chart').easyPieChart({
-                    barColor: '#7510F7',//Pie chart colour
+                    barColor: '#292929',//Pie chart colour
                     trackColor: '#e8e8e8',
                     scaleColor: false,
                     lineWidth: 5,
@@ -70,7 +70,7 @@ $(document).ready(function () {
         if (bottom_of_window >= bottom_of_object) {
 
             $('.chart').easyPieChart({
-                barColor: '#7510F7',//Pie chart colour
+                barColor: '#292929',//Pie chart colour
                 trackColor: '#e8e8e8',
                 scaleColor: false,
                 lineWidth: 5,
