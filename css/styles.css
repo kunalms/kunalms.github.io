@@ -27,7 +27,7 @@ h6 {
 }
 
 a {
-    color: #292929;;
+    color: #0747A6;;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -36,7 +36,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #CCCCCC;
+    color: #5796E7;
 }
 
 a:focus {
@@ -79,7 +79,7 @@ a.btn:hover {
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
-    background: #CCCCCC;
+    background: #5796E7;
     color: #fff;
     text-align: center;
     display: inline-block;
@@ -100,7 +100,7 @@ a.btn:hover {
 }
 
 #topcontrol:hover {
-    background: #CCCCCC;
+    background: #5796E7;
     color: #fff;
 }
 
@@ -112,7 +112,7 @@ a.btn:hover {
 }
 
 .header {
-    background: #292929;
+    background: #0747A6;
     color: #fff;
 }
 
@@ -183,6 +183,7 @@ a.btn:hover {
     margin-left: -80px;
     left: 50%;
     z-index: 100;
+    filter: grayscale(10%);
 }
 
 .header .name {
@@ -220,7 +221,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper {
-    background: #292929;
+    background: #0747A6;
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
@@ -237,7 +238,7 @@ a.btn:hover {
     left: 0;
     width: 100%;
     z-index: 100;
-    background: #292929;;
+    background: #0747A6;;
 }
 
 .page-nav-wrapper a {
@@ -313,6 +314,7 @@ a.btn:hover {
 }
 
 .section-title {
+    color: #0747A6;
     margin-top: 0;
     margin-bottom: 45px;
     font-size: 24px;
@@ -320,7 +322,7 @@ a.btn:hover {
 }
 
 .timeline {
-    border-left: 3px solid #292929;;
+    border-left: 3px solid #0747A6;;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
     position: relative;
@@ -354,7 +356,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     background: #fff;
-    border: 3px solid #292929;;
+    border: 3px solid #0747A6;;
 }
 
 .timeline .item:after {
@@ -373,7 +375,7 @@ a.btn:hover {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background: #292929;;
+    background: #0747A6;;
     z-index: 10;
 }
 
@@ -407,7 +409,7 @@ a.btn:hover {
 
 .timeline .job-meta .title {
     font-size: 18px;
-    color: #292929;;
+    color: #0747A6;;
 }
 
 .timeline .job-meta .time {
@@ -420,18 +422,22 @@ a.btn:hover {
 
 .skills-section .subtitle {
     font-size: 18px;
-    color: #8a8a8a;
+    color: #0747A6;
     margin-top: 0;
     margin-bottom: 45px;
     font-weight: 500;
 }
 
 .skills-section .top-skills {
-
+    color: #0747A6;
 }
 
 .skills-section .top-skills .item {
     margin-bottom: 45px;
+}
+
+.skills-section .skill-name {
+
 }
 
 .skills-section .level {
@@ -516,7 +522,7 @@ a.btn:hover {
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #292929;;
+    background: #0747A6;;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -555,7 +561,7 @@ a.btn:hover {
 }
 
 .testimonials-section .carousel-indicators li.active {
-    background-color: #292929;;
+    background-color: #0747A6;;
     width: 10px;
     height: 10px;
     margin: 0;
@@ -591,8 +597,8 @@ Portfolio Section
 }
 
 .portfolio-section .filters .type.active {
-    color: #292929;;
-    border-bottom: 2px solid #292929;;
+    color: #0747A6;;
+    border-bottom: 2px solid #0747A6;;
 }
 
 .portfolio-section .item {
@@ -645,7 +651,7 @@ Portfolio Section
 
 .portfolio-section .item-inner .content .action span {
     font-weight: 600;
-    color: #292929;;
+    color: #0747A6;;
 }
 
 /**
@@ -684,7 +690,7 @@ Contact section start here
 }
 
 .contact-section .service-list .fa {
-    color: #292929;;
+    color: #0747A6;;
 }
 
 .contact-section .social {
@@ -707,7 +713,7 @@ Contact section start here
 }
 
 .contact-section .social a:hover {
-    color: #292929;;
+    color: #0747A6;;
 }
 
 .footer .container {
@@ -875,7 +881,7 @@ Contact section start here
 
 .book-section .category {
     font-size: 18px;
-    color: #292929;;
+    color: #0747A6;;
     margin-top: 0;
     margin-bottom: 16px;
 }
@@ -901,14 +907,14 @@ Contact section start here
 
 .education-section .category {
     font-size: 18px;
-    color: #292929;;
+    color: #0747A6;;
     margin-top: 0;
     margin-bottom: 16px;
 }
 
 .education-section .title {
     font-size: 18px;
-    color: #292929;;
+    color: #0747A6;;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
@@ -958,7 +964,7 @@ Contact section start here
     overflow: hidden;
     height: 100%;
     bottom: -1px;
-    background-image: linear-gradient(to top, #CCCCCC 20%, #292929 80%);
+    background-image: linear-gradient(to top, #5796E7 20%, #0747A6 80%);
 }
 .bgTop {
     z-index: 3;
@@ -1045,7 +1051,7 @@ li.inline-bullet:not(:last-child) {
 .project-tile {
     position: relative;
     border-radius: 12px;
-    border: 1px solid rgba(141, 40, 242, 0.52);
+    border: 1px solid rgba(7, 71, 166, 0.52);
     transition: 1s;
     height: 200px;
     max-height: 200px;
@@ -1082,6 +1088,7 @@ li.inline-bullet:not(:last-child) {
     width: 100%;
     border-radius: 12px;
     object-fit: cover;
+    filter: grayscale(1);
 }
 
 .project-description {
